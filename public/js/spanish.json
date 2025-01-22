@@ -1,0 +1,18 @@
+{
+	"decimal": "",
+	"emptyTable": "No hay información disponible",
+	"info": "Mostrando de _START_ a _END_ de un total de _TOTAL_ de registros",
+	"infoEmpty": "Mostrando de 0 a 0 de un total de 0 de registros",
+	"infoFiltered": "Filtrado de _MAX_ de registros",
+	"infoPostFix": "",
+	"thousands": ",",
+	"lengthMenu": "Mostrando _MENU_ registros",
+	"loadingRecords": "Cargando...",
+	"processing":"",
+	"search": "Búsqueda:",
+	"zeroRecords": "No se encontraron registros",
+	"aria": {
+		"orderable": "Orden por esta columna",
+		"orderableReverse": "Orden descendente por esta columna"
+	}
+}
