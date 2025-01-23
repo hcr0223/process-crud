@@ -35,7 +35,7 @@ class TaskController extends Controller {
      * @return mixed
      */
     public function create(Request $request) {
-        if (!isset($request['status'])) {
+        if (empty($request['status'])) {
             $request['status'] = 1;
         }
 
